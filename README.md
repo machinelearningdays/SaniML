@@ -11,9 +11,16 @@ Dosyalara ait açıklama:
                 oluşturulan demo tanıtım videosudur.
         saniml.xd:
                 saniml-demo-video.MOV un oluşturulduğu adebe xd çalışmasıdır.
+        flask.zip:
+                modelimizi online olarak deneyebileceğimiz bir arayüz oluşturmayı amaçladık.
+                (not: güncel durumda, son aşamsında 405 hatası almaktayız.)
+        saniml.ipynb:
+                modelin eğitildiği ve kaydedildiği notebooktur.
         
         
 Grup : SaniML
+
+
 Takım : 
 
         Arzu Yılmaz            (yilmazarzu.98@gmail.com)
@@ -53,7 +60,7 @@ Projenin yenilikçi yönü:
 
 Kütüphaneler ve Modüller : 
 
-        PIL, Os, Keras, Numpy, Math, Matplotlib.pyplot, Random, Glob, Pandas, cv2
+        PIL, Os, Keras, Numpy, Math, Matplotlib.pyplot, Random, Glob, Pandas, cv2, flask, skimage
         layers (from keras)
         models (from keras)
         mnist (from keras.datasets)
@@ -65,6 +72,7 @@ Kütüphaneler ve Modüller :
         gc (Garbage Collector)
         load_model (from tensorflow.keras.models)
         ImageDataGenerator (from keras.preprocessing.image)
+        
 
         
 
