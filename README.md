@@ -41,12 +41,17 @@ Tugay Bayrak: Anadolu Üniversitesi Hukuk Fakültesi son sınıf öğrencisi. İ
 
 Projenin özeti: 
 
-        Şehirler geliştikçe sokak hayvanlarının yaşam alanları kısıtlanmaya ve gıdaya ulaşımları zorlaşmaya başladı. Amacımız sokak hayvanlarının da sahiplenilmiş bir hayvan
-        kadar destek görebilmesini sağlamak. Biz bunun için ilk adım olarak mama desteğini hayata geçirmek istiyoruz. Bu proje ile sokakta yaşayan bir hayvanın da eve alınmadan
-        evlat edinilebileceğini göstermeyi planlıyoruz. Bunu da sokak gönüllüleri fikri ile ortaya atıyoruz. İlk adımda sokak gönüllülerinin, sorumluluğunu üstlendiği bölgede
-        bulunan mama kabını fotoğraflayarak algoritmaya vermesini bekleyeceğiz. Kullanıcıların verdiği görseli dolu veya boş olarak etiketleyecek olan makine öğrenmesi
-        algoritması çalıştığında, kullanıcının her dolu mama kabı girdisi için 1 puan verecek. Kullanıcı 10 puan topladığında bir ödül alacak ve puanı sıfırlanacak. 
-        Bu uygulama ile aslında sorumluluk olarak üstlendiği ve gönüllü olarak yapacağı bu işi oyunlaştırarak zevkli ve daha yapılabilir hale getirmeyi planlıyoruz. 
+        Şehirler geliştikçe sokak hayvanlarının yaşam alanları kısıtlanmaya ve gıdaya ulaşımları zorlaşmaya başladı. 
+        Amacımız sokak hayvanlarının da sahiplenilmiş bir hayvan kadar destek görebilmesini sağlamak. 
+        Biz bunun için ilk adım olarak mama desteğini hayata geçirmek istiyoruz. 
+        Bu proje ile sokakta yaşayan bir hayvanın da eve alınmadan evlat edinilebileceğini göstermeyi planlıyoruz. 
+        Bunu da sokak gönüllüleri fikri ile ortaya atıyoruz. İlk adımda sokak gönüllülerinin, 
+        sorumluluğunu üstlendiği bölgede bulunan mama kabını fotoğraflayarak algoritmaya vermesini bekleyeceğiz. 
+        Kullanıcıların verdiği görseli dolu veya boş olarak etiketleyecek olan makine öğrenmesi algoritması çalıştığında, 
+        kullanıcının her dolu mama kabı girdisi için 1 puan verecek. 
+        Kullanıcı 10 puan topladığında bir ödül alacak ve puanı sıfırlanacak. 
+        Bu uygulama ile aslında sorumluluk olarak üstlendiği ve gönüllü olarak yapacağı bu işi,
+        oyunlaştırarak zevkli ve daha yapılabilir hale getirmeyi planlıyoruz. 
     
 
 Projenin yenilikçi yönü: 
