@@ -73,7 +73,8 @@ Kütüphaneler ve Modüller :
         load_model (from tensorflow.keras.models)
         ImageDataGenerator (from keras.preprocessing.image)
         
-
+        
+Platform : WEB
         
 
   
