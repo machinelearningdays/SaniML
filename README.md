@@ -7,15 +7,22 @@ Dosyalara ait açıklama:
         data.zip içerisinde:
                 saniml-data dosyasında işlenmemiş ve split edilmemiş data bulunmaktadır.
                 saniml-train-test-validation dosyasında resize edilmiş ve split edilmiş işlenmeye hazır data bulunmaktadır.
+        saniml.ipynb:
+                modelin eğitildiği ve kaydedildiği notebooktur.
         saniml-demo-video.MOV:
                 oluşturulan demo tanıtım videosudur.
         saniml.xd:
                 saniml-demo-video.MOV un oluşturulduğu adebe xd çalışmasıdır.
-        flask.zip:
-                modelimizi online olarak deneyebileceğimiz bir arayüz oluşturmayı amaçladık.
-                (not: güncel durumda, son aşamsında 405 hatası almaktayız.)
-        saniml.ipynb:
-                modelin eğitildiği ve kaydedildiği notebooktur.
+        add.py:
+                flask uygulması.
+        templates:
+                add.py doyası içinde kullanılan html uzantıları.
+        models:
+                modelimizi app.py dosyasının kullanabilmesi için kaydettiğimiz dosya.
+        requirements.txt:
+                app.py dosyasının çalışması için gerekli paket ve versiyonlar.
+        
+
         
         
 Grup : SaniML
