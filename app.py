@@ -26,7 +26,6 @@ loaded_model = load_model("models/binary_100epoch_saved.h5")
 loaded_model.run_eagerly = True
 loaded_model.make_predict_function()
 
-
 def image_preprocess(img):
   new_shape = (256, 256, 3)
   npimg = np.fromfile(img, np.uint8)
